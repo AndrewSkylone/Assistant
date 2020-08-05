@@ -1,4 +1,3 @@
-import sys
-import os
+import settings
 
-print("Hello World")
+print(settings.tags["first"])
